@@ -1,5 +1,5 @@
 # Elm Prints
-
+## [Play it here](https://elmprints.herokuapp.com/)
 ## Scope
 
 ### MVP
